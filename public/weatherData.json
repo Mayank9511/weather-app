@@ -1,0 +1,137 @@
+{
+    "cities": [
+      {
+        "name": "New York",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 29, "humidity": 65, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-30", "temperature": 31, "humidity": 60, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-07-31", "temperature": 28, "humidity": 70, "description": "Showers", "precipitation": 40},
+          {"day": "2024-08-01", "temperature": 27, "humidity": 75, "description": "Cloudy", "precipitation": 20},
+          {"day": "2024-08-02", "temperature": 26, "humidity": 80, "description": "Rain", "precipitation": 50},
+          {"day": "2024-08-03", "temperature": 28, "humidity": 70, "description": "Thunderstorms", "precipitation": 60},
+          {"day": "2024-08-04", "temperature": 30, "humidity": 65, "description": "Sunny", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "Los Angeles",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 32, "humidity": 20, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-30", "temperature": 33, "humidity": 18, "description": "Clear", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 34, "humidity": 15, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-01", "temperature": 35, "humidity": 14, "description": "Clear", "precipitation": 0},
+          {"day": "2024-08-02", "temperature": 33, "humidity": 16, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-03", "temperature": 32, "humidity": 18, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-04", "temperature": 31, "humidity": 20, "description": "Partly Cloudy", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "Chicago",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 26, "humidity": 80, "description": "Cloudy", "precipitation": 10},
+          {"day": "2024-07-30", "temperature": 27, "humidity": 78, "description": "Showers", "precipitation": 20},
+          {"day": "2024-07-31", "temperature": 25, "humidity": 82, "description": "Rain", "precipitation": 40},
+          {"day": "2024-08-01", "temperature": 24, "humidity": 85, "description": "Thunderstorms", "precipitation": 60},
+          {"day": "2024-08-02", "temperature": 26, "humidity": 80, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-08-03", "temperature": 27, "humidity": 78, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-04", "temperature": 28, "humidity": 75, "description": "Clear", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "Houston",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 33, "humidity": 85, "description": "Thunderstorms", "precipitation": 50},
+          {"day": "2024-07-30", "temperature": 34, "humidity": 80, "description": "Showers", "precipitation": 30},
+          {"day": "2024-07-31", "temperature": 35, "humidity": 75, "description": "Rain", "precipitation": 40},
+          {"day": "2024-08-01", "temperature": 36, "humidity": 70, "description": "Cloudy", "precipitation": 20},
+          {"day": "2024-08-02", "temperature": 34, "humidity": 75, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-08-03", "temperature": 33, "humidity": 80, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-04", "temperature": 32, "humidity": 85, "description": "Thunderstorms", "precipitation": 50}
+        ]
+      },
+      {
+        "name": "Phoenix",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 40, "humidity": 10, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-30", "temperature": 41, "humidity": 8, "description": "Clear", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 42, "humidity": 7, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-01", "temperature": 43, "humidity": 6, "description": "Clear", "precipitation": 0},
+          {"day": "2024-08-02", "temperature": 42, "humidity": 8, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-03", "temperature": 41, "humidity": 10, "description": "Partly Cloudy", "precipitation": 0},
+          {"day": "2024-08-04", "temperature": 40, "humidity": 12, "description": "Sunny", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "Philadelphia",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 28, "humidity": 70, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-07-30", "temperature": 29, "humidity": 65, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 27, "humidity": 75, "description": "Cloudy", "precipitation": 20},
+          {"day": "2024-08-01", "temperature": 26, "humidity": 80, "description": "Showers", "precipitation": 30},
+          {"day": "2024-08-02", "temperature": 28, "humidity": 70, "description": "Rain", "precipitation": 40},
+          {"day": "2024-08-03", "temperature": 29, "humidity": 65, "description": "Thunderstorms", "precipitation": 50},
+          {"day": "2024-08-04", "temperature": 30, "humidity": 60, "description": "Sunny", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "San Antonio",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 35, "humidity": 60, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-07-30", "temperature": 36, "humidity": 55, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 37, "humidity": 50, "description": "Clear", "precipitation": 0},
+          {"day": "2024-08-01", "temperature": 38, "humidity": 45, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-02", "temperature": 36, "humidity": 50, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-08-03", "temperature": 35, "humidity": 55, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-04", "temperature": 34, "humidity": 60, "description": "Cloudy", "precipitation": 20}
+        ]
+      },
+      {
+        "name": "San Diego",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 25, "humidity": 60, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-30", "temperature": 26, "humidity": 58, "description": "Clear", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 27, "humidity": 55, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-01", "temperature": 26, "humidity": 57, "description": "Clear", "precipitation": 0},
+          {"day": "2024-08-02", "temperature": 25, "humidity": 60, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-03", "temperature": 24, "humidity": 65, "description": "Partly Cloudy", "precipitation": 0},
+          {"day": "2024-08-04", "temperature": 25, "humidity": 60, "description": "Sunny", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "Dallas",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 34, "humidity": 65, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-30", "temperature": 35, "humidity": 60, "description": "Clear", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 36, "humidity": 55, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-08-01", "temperature": 37, "humidity": 50, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-02", "temperature": 36, "humidity": 55, "description": "Clear", "precipitation": 0},
+          {"day": "2024-08-03", "temperature": 35, "humidity": 60, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-08-04", "temperature": 34, "humidity": 65, "description": "Sunny", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "San Jose",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 27, "humidity": 55, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-30", "temperature": 28, "humidity": 50, "description": "Clear", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 29, "humidity": 45, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-01", "temperature": 30, "humidity": 40, "description": "Clear", "precipitation": 0},
+          {"day": "2024-08-02", "temperature": 29, "humidity": 45, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-03", "temperature": 28, "humidity": 50, "description": "Partly Cloudy", "precipitation": 0},
+          {"day": "2024-08-04", "temperature": 27, "humidity": 55, "description": "Sunny", "precipitation": 0}
+        ]
+      },
+      {
+        "name": "Austin",
+        "weather": [
+          {"day": "2024-07-29", "temperature": 35, "humidity": 70, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-07-30", "temperature": 36, "humidity": 65, "description": "Clear", "precipitation": 0},
+          {"day": "2024-07-31", "temperature": 37, "humidity": 60, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-08-01", "temperature": 38, "humidity": 55, "description": "Sunny", "precipitation": 0},
+          {"day": "2024-08-02", "temperature": 37, "humidity": 60, "description": "Clear", "precipitation": 0},
+          {"day": "2024-08-03", "temperature": 36, "humidity": 65, "description": "Partly Cloudy", "precipitation": 10},
+          {"day": "2024-08-04", "temperature": 35, "humidity": 70, "description": "Sunny", "precipitation": 0}
+        ]
+      }
+    ]
+  }
+  
